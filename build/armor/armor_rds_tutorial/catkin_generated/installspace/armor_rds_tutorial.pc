@@ -1,0 +1,8 @@
+prefix=/root/ros_ws/install
+
+Name: armor_rds_tutorial
+Description: Description of armor_rds_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

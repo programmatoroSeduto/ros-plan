@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/msg/_DomainAssignment.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/msg/_DomainFormula.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/msg/_DomainInequality.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/msg/_DomainOperator.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/msg/_ExprBase.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/msg/_ExprComposite.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/msg/_KnowledgeItem.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/msg/_ProbabilisticEffect.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/msg/_StatusUpdate.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/msg/__init__.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/_GenerateProblemService.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/_GetAttributeService.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/_GetDomainAttributeService.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/_GetDomainNameService.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/_GetDomainOperatorDetailsService.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/_GetDomainOperatorService.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/_GetDomainPredicateDetailsService.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/_GetDomainTypeService.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/_GetEnumerableTypeService.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/_GetInstanceService.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/_GetMetricService.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/_GetRDDLFluentType.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/_GetRDDLImmediateReward.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/_GetRDDLParams.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/_KnowledgeQueryService.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/_KnowledgeUpdateService.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/_KnowledgeUpdateServiceArray.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/_ReloadRDDLDomainProblem.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/_SetFloat.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/_SetInt.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/_SetNamedBool.py"
+  "/root/ros_ws/devel/lib/python3/dist-packages/rosplan_knowledge_msgs/srv/__init__.py"
+  "CMakeFiles/rosplan_knowledge_msgs_generate_messages_py"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/rosplan_knowledge_msgs_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

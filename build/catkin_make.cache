@@ -1,0 +1,2 @@
+ROSPlan/rosplan:ROSPlan/rosplan_action_interface:ROSPlan/rosplan_dependencies:ROSPlan/rosplan_dispatch_msgs:ROSPlan/rosplan_knowledge_base:ROSPlan/rosplan_knowledge_msgs:ROSPlan/rosplan_planning_system:ROSPlan/rosplan_rqt:ROSPlan/rosplan_sensing_interface
+-DCATKIN_DEVEL_PREFIX=/root/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/root/ros_ws/install -G Unix Makefiles

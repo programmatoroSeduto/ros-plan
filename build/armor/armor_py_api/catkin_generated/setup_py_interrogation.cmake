@@ -1,0 +1,7 @@
+set(armor_py_api_SETUP_PY_SETUP_MODULE "distutils.core")
+set(armor_py_api_SETUP_PY_VERSION "0.1.0")
+set(armor_py_api_SETUP_PY_SCRIPTS "")
+set(armor_py_api_SETUP_PY_PACKAGES "armor_api")
+set(armor_py_api_SETUP_PY_PACKAGE_DIRS "scripts/armor_api")
+set(armor_py_api_SETUP_PY_MODULES "")
+set(armor_py_api_SETUP_PY_MODULE_DIRS "")

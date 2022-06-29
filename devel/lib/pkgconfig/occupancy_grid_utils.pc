@@ -1,0 +1,8 @@
+prefix=/root/ros_ws/devel
+
+Name: occupancy_grid_utils
+Description: Description of occupancy_grid_utils
+Version: 0.0.11
+Cflags: -I/root/ros_ws/devel/include -I/root/ros_ws/src/occupancy_grid_utils/include
+Libs: -L${prefix}/lib -lgrid_utils
+Requires: nav_msgs geometry_msgs sensor_msgs laser_geometry roscpp rospy tf tf2_bullet message_runtime

@@ -1,0 +1,8 @@
+prefix=/root/ros_ws/devel
+
+Name: armor
+Description: Description of armor
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

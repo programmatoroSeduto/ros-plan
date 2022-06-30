@@ -1,8 +1,0 @@
-prefix=/root/ros_ws/install
-
-Name: multi_ontology_reference
-Description: Description of multi_ontology_reference
-Version: 2.2.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

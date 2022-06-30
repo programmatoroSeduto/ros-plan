@@ -1,2 +1,0 @@
-set(hector_nav_msgs_MESSAGE_FILES "")
-set(hector_nav_msgs_SERVICE_FILES "/root/ros_ws/src/SLAM_packages/hector_slam/hector_nav_msgs/srv/GetDistanceToObstacle.srv;/root/ros_ws/src/SLAM_packages/hector_slam/hector_nav_msgs/srv/GetRecoveryInfo.srv;/root/ros_ws/src/SLAM_packages/hector_slam/hector_nav_msgs/srv/GetRobotTrajectory.srv;/root/ros_ws/src/SLAM_packages/hector_slam/hector_nav_msgs/srv/GetSearchPosition.srv;/root/ros_ws/src/SLAM_packages/hector_slam/hector_nav_msgs/srv/GetNormal.srv")

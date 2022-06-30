@@ -1,2 +1,0 @@
-set(motion_plan_MESSAGE_FILES "/root/ros_ws/devel/share/motion_plan/msg/PlanningAction.msg;/root/ros_ws/devel/share/motion_plan/msg/PlanningActionGoal.msg;/root/ros_ws/devel/share/motion_plan/msg/PlanningActionResult.msg;/root/ros_ws/devel/share/motion_plan/msg/PlanningActionFeedback.msg;/root/ros_ws/devel/share/motion_plan/msg/PlanningGoal.msg;/root/ros_ws/devel/share/motion_plan/msg/PlanningResult.msg;/root/ros_ws/devel/share/motion_plan/msg/PlanningFeedback.msg")
-set(motion_plan_SERVICE_FILES "")

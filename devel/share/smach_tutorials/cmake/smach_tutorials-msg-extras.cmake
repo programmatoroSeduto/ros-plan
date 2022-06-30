@@ -1,2 +1,0 @@
-set(smach_tutorials_MESSAGE_FILES "/root/ros_ws/devel/share/smach_tutorials/msg/TestAction.msg;/root/ros_ws/devel/share/smach_tutorials/msg/TestActionGoal.msg;/root/ros_ws/devel/share/smach_tutorials/msg/TestActionResult.msg;/root/ros_ws/devel/share/smach_tutorials/msg/TestActionFeedback.msg;/root/ros_ws/devel/share/smach_tutorials/msg/TestGoal.msg;/root/ros_ws/devel/share/smach_tutorials/msg/TestResult.msg;/root/ros_ws/devel/share/smach_tutorials/msg/TestFeedback.msg")
-set(smach_tutorials_SERVICE_FILES "")

@@ -1,8 +1,0 @@
-prefix=/root/ros_ws/install
-
-Name: armor_py_api
-Description: Description of armor_py_api
-Version: 0.1.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
